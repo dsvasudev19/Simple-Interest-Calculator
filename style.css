@@ -1,0 +1,22 @@
+mark {background-color:yellow;
+      font-family:arial narrow;
+      color:black}
+h3{color:grey;
+   font-family:arial black;}
+.container{
+        background:border-box whitesmoke;
+        color:black;
+        width: 600px;
+        margin: auto;
+	padding:20px;
+        border-radius: 25px;
+        text-decoration:center;}
+table {margin-left:100px;}
+
+.sectionMargin{
+        padding-top: 2rem;
+}
+
+.sectionMargin1{
+        padding-top: 8rem;
+}
